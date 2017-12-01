@@ -1,0 +1,3 @@
+Koostage Pythoni programm, mis teeb Aisakella sõnade põhjal sõnapilve
+
+Salvestage nii programmikood kui pilv git-i projekti
